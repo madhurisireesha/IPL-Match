@@ -1,0 +1,16 @@
+.recentmatch{
+background-color: black;
+  width: 20vw;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  list-style: none;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+}
